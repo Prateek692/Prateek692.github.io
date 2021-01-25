@@ -1,0 +1,176 @@
+{ margin: 0;
+  padding: 0;
+  font-family: Century Gothic;
+}
+
+header
+{ background-image:linear-gradient(rgba(0,0,0,0.2),rgba(0,0,0,0.2)), url(../bg.jpg);
+  height: 100vh;
+  background-size: cover;
+  background-position: center;
+}
+
+ul
+{
+  list-style-type: none;
+  float:right;
+  margin-top: 10px;
+  
+}
+ul li 
+{  display: inline-block;
+}
+
+ul li a
+{  text-decoration: underline;
+   color: #fff;
+   padding: 5px 40px;
+   font-size: 30px;
+   transition: 0.6s ease;
+}
+ 
+ul li a:hover
+{  background-color: #fff;
+   color: #000; 
+}
+
+ul li.homepage a
+{  background-color: #f40;
+   color: #000;
+}
+
+.name img
+{  float: left;
+   width: 600px;
+   height: auto; 
+}
+
+.main
+{  max-width: 1800px;
+   margin: auto;
+}
+
+.mypic img
+{  float: center;
+   width: 300px;
+   height: auto;
+   margin-left: 175px;
+   margin-top: 130px;
+} 
+
+.myname
+{   text-decoration: underline;
+    color: #fff;
+    font-size: 22px;
+    margin-left:825px;
+}
+
+.info
+{  color: #ff9;
+   font-size: 18px;
+   margin-left: 0px;
+  text-align: center; 
+}
+
+ul li.hobbies a
+{  background-color: #f40;
+   color: #000;
+}
+
+.hobbytitle
+{  text-decoration: underline;
+   color: #fff;
+   font-size: 28px;
+   position: absolute;
+   top: 25%;
+   left: 50%;
+   transform: translate(-50%,-50%);
+}
+
+.hobbyinfo
+{ color: #ff9;
+  font-size: 24px;
+  text-align: center;
+  margin-left: 0px;
+  position: absolute;
+   top: 55%;
+   left: 50%;
+   transform: translate(-50%,-50%);
+}
+
+ul li.skills a
+{  background-color: #f40;
+   color: #000;
+}
+
+.skilltitle
+{  text-decoration: underline;
+   color: #fff;
+   font-size: 28px;
+   position: absolute;
+   top: 25%;
+   left: 50%;
+   transform: translate(-50%,-50%);
+}
+
+.skillinfo
+{ color: #ff9;
+  font-size: 24px;
+  text-align: justify;
+  position: absolute;
+  top: 55%;
+  left: 50%;
+   transform: translate(-50%,-50%);
+}
+.football img
+{  float: right;
+   width: 200px;
+   height: auto;
+   margin-left: 175px;
+   margin-top: 0px;
+}
+.maths img
+{  float: right;
+   width: 200px;
+   height: auto;
+   margin-left: 175px;
+   margin-top: 0px;
+}
+.gaming img
+{  float: right;
+   width: 200px;
+   height: auto;
+   margin-left: 175px;
+   margin-top: 0px;
+}
+.swimming img
+{  float: right;
+   width: 200px;
+   height: auto;
+   margin-left: 175px;
+   margin-top: 0px;
+}
+.spokenenglish img
+{  float: right;
+   width: 200px;
+   height: auto;
+   margin-left: 175px;
+   margin-top: 0px;
+}
+.coding img
+{  float: right;
+   width: 200px;
+   height: auto;
+   margin-left: 175px;
+   margin-top: 0px;
+}
+.cycling img
+{  float: right;
+   width: 200px;
+   height: auto;
+   margin-left: 175px;
+   margin-top: 0px;
+}
+
+
+
