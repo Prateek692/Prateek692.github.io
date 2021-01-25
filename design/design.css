@@ -108,7 +108,7 @@ ul li.skills a
    color: #fff;
    font-size: 28px;
    position: absolute;
-   top: 5%;
+   top: 10%;
    left: 50%;
    transform: translate(-50%,-50%);
 }
@@ -118,7 +118,7 @@ ul li.skills a
   font-size: 24px;
   text-align: left;
   position: absolute;
-  top: 70%;
+  top: 60%;
   left: 40%;
    transform: translate(-50%,-50%);
 }
