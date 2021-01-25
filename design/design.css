@@ -118,7 +118,7 @@ ul li.skills a
   font-size: 24px;
   text-align: left;
   position: absolute;
-  top: 56%;
+  top: 50%;
   left: 40%;
    transform: translate(-50%,-50%);
 }
