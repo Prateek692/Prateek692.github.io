@@ -108,7 +108,7 @@ ul li.skills a
    color: #fff;
    font-size: 28px;
    position: absolute;
-   top: 25%;
+   top: 10%;
    left: 50%;
    transform: translate(-50%,-50%);
 }
@@ -116,61 +116,64 @@ ul li.skills a
 .skillinfo
 { color: #ff9;
   font-size: 24px;
-  text-align: justify;
+  text-align: left;
   position: absolute;
-  top: 55%;
-  left: 50%;
+  top: 60%;
+  left: 40%;
    transform: translate(-50%,-50%);
 }
 .football img
 {  float: right;
    width: 200px;
    height: auto;
-   margin-left: 175px;
-   margin-top: 0px;
+   margin-left: 400px;
+   margin-bottom: 0px;
 }
 .maths img
 {  float: right;
    width: 200px;
    height: auto;
-   margin-left: 175px;
-   margin-top: 0px;
+   margin-left: 400px;
+   margin-bottom: 0px;
 }
 .gaming img
 {  float: right;
    width: 200px;
    height: auto;
-   margin-left: 175px;
-   margin-top: 0px;
+   margin-left: 400px;
+   margin-bottom: 0px;
 }
 .swimming img
 {  float: right;
    width: 200px;
    height: auto;
-   margin-left: 175px;
-   margin-top: 0px;
+   margin-left: 400px;
+   margin-bottom: 0px;
 }
 .spokenenglish img
 {  float: right;
    width: 200px;
    height: auto;
-   margin-left: 175px;
-   margin-top: 0px;
+   margin-left: 400px;
+   margin-bottom: 0px;
 }
 .coding img
 {  float: right;
    width: 200px;
    height: auto;
-   margin-left: 175px;
-   margin-top: 0px;
+   margin-left: 400px;
+   margin-bottom: 0px;
 }
 .cycling img
 {  float: right;
    width: 200px;
    height: auto;
-   margin-left: 175px;
-   margin-top: 0px;
+   margin-left: 400px;
+   margin-bottom: 0px;
 }
+
+
+
 
 
 
